@@ -65,6 +65,7 @@ h2 {
 
 /* home css styles here */
 .hero-image {
+  margin-top: 5rem;
   position: relative;
   height: 35rem;
 }
